@@ -1,0 +1,18 @@
+DELAPC Tools License
+
+Copyright (c) 2026 DELAPC - Raptor
+
+Permission is granted to use this software for personal
+and professional technical support purposes.
+
+This software is provided free of charge.
+
+You may not:
+- Modify this software and redistribute modified versions.
+- Remove the DELAPC attribution.
+- Publish this software as your own work.
+- Sell this software or include it in commercial products
+  without prior authorization from DELAPC.
+
+Developed by DELAPC
+Coded by Raptor
